@@ -8,7 +8,7 @@ Ipotizzando che:
 - ogni piano è quadrato, con una lunghezza laterale inferiore di due rispetto a quella sottostante.
 - il primo piano è sempre di un mattone
 
-
+### Il programma si divide in due parti:
 <details>
 <summary>Piani</summary>
 
